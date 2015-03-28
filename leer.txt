@@ -1,0 +1,4 @@
+buenas tardes profesor, intente implementarle a la shell
+ que el comando se ingresara con ta tecla enter ,lo realice en
+netbeans por alguna razon solo funciona el comando help lo envio asi por que ya 
+estoy muy retardado de tiempo. 
